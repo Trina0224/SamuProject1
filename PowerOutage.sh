@@ -57,7 +57,9 @@ rm *.log
 cd -
 
 
-
-
 #crontab crontab_backup
 crontab -l
+
+
+PLOTNUMS=`ls /mnt/plotting/*.plot | wc -l`
+echo "There are $PLOTNUMS plots on /dev/sdd"
