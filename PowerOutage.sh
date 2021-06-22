@@ -48,6 +48,9 @@ sudo chown -R `whoami` /mnt/*
 rm /mnt/temp1/*.tmp 
 rm /mnt/temp2/*.tmp 
 rm /mnt/plotting/*.tmp 
+rm /home/Porter/*.tmp
+rm /home/Porter/movinglist.txt
+
 
 echo "backup all log files..."
 now=$(date +"%m_%d_%Y")
