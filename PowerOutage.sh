@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script is for the system experienced power outage and recovery. 
+
 SDATEST=$(cat /sys/block/sda/queue/rotational)
 SDBTEST=$(cat /sys/block/sdb/queue/rotational)
 #SDCTEST=$(cat /sys/block/sdc/queue/rotational)
