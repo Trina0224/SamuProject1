@@ -13,8 +13,9 @@ sudo umount /mnt/temp1
 sudo umount /mnt/temp2
 sudo umount /mnt/plotting
 
-read -s -n 1 -p "After replace HDD at most righthand side bay, Press any key to continue . . ."
-echo "wait a second..."
+#0628, It's useless for now. Remove below 2 lines.
+#read -s -n 1 -p "After replace HDD at most righthand side bay, Press any key to continue . . ."
+#echo "wait a second..."
 sleep 2
 
 echo "Mount all disks"
