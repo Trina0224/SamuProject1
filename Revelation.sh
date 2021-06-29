@@ -23,6 +23,7 @@ if [ "$RESULT" = "96%" ]; then
     tar zcvf backup_${now}.tar.gz *.log 
     rm *.log
     cd -
+    sudo umount /mnt/plotting
     
 else
     echo "Some Errors detected."
