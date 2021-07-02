@@ -17,6 +17,10 @@ sudo apt install vim -y
 sudo apt-get install ledmon -y
 sudo apt-get install nvme-cli
 
+mkdir ~/.ssh
+cp authorized_keys ~/.ssh
+
+
 mkdir ~/Documents
 
 sudo chown -R `whoami` /mnt/*

@@ -47,6 +47,10 @@ sudo chown -R `whoami` /mnt/*
 
 sudo chown -R `whoami` /media/*
 
+mkdir ~/.ssh
+cp authorized_keys ~/.ssh
+
+
 echo "Install CHIA"
 cd ~/Documents
 git clone https://github.com/Chia-Network/chia-blockchain.git -b latest --recurse-submodules
