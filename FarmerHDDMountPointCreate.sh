@@ -48,3 +48,5 @@ sudo mkdir /mnt/sdaq
 sudo mkdir /mnt/sdar
 sudo mkdir /mnt/sdas 
 sudo mkdir /mnt/sdat  
+
+sudo chown -R `whoami` /mnt/*
