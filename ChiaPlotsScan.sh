@@ -1,0 +1,50 @@
+#!/bin/bash
+
+#chia plots add -d /mnt/sd
+chia plots add -d /mnt/sdb
+chia plots add -d /mnt/sdc
+chia plots add -d /mnt/sdd
+chia plots add -d /mnt/sde 
+chia plots add -d /mnt/sdf 
+chia plots add -d /mnt/sdg 
+chia plots add -d /mnt/sdh 
+chia plots add -d /mnt/sdi 
+chia plots add -d /mnt/sdj 
+chia plots add -d /mnt/sdk 
+chia plots add -d /mnt/sdl 
+chia plots add -d /mnt/sdm 
+chia plots add -d /mnt/sdn 
+chia plots add -d /mnt/sdo 
+chia plots add -d /mnt/sdp 
+chia plots add -d /mnt/sdq 
+chia plots add -d /mnt/sdr
+chia plots add -d /mnt/sds 
+chia plots add -d /mnt/sdt 
+chia plots add -d /mnt/sdu 
+chia plots add -d /mnt/sdv
+chia plots add -d /mnt/sdw  
+chia plots add -d /mnt/sdx 
+chia plots add -d /mnt/sdy 
+chia plots add -d /mnt/sdz 
+chia plots add -d /mnt/sdaa 
+chia plots add -d /mnt/sdab 
+chia plots add -d /mnt/sdac
+chia plots add -d /mnt/sdad 
+chia plots add -d /mnt/sdae 
+chia plots add -d /mnt/sdaf 
+chia plots add -d /mnt/sdag 
+chia plots add -d /mnt/sdah 
+chia plots add -d /mnt/sdai
+chia plots add -d /mnt/sdaj
+chia plots add -d /mnt/sdak
+chia plots add -d /mnt/sdal
+chia plots add -d /mnt/sdam
+chia plots add -d /mnt/sdan 
+chia plots add -d /mnt/sdao 
+chia plots add -d /mnt/sdap 
+chia plots add -d /mnt/sdaq
+chia plots add -d /mnt/sdar
+chia plots add -d /mnt/sdas 
+chia plots add -d /mnt/sdat 
+
+
