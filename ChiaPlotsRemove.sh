@@ -1,0 +1,50 @@
+#!/bin/bash
+
+#chia plots remove -d /mnt/sd
+chia plots remove -d /mnt/sdb
+chia plots remove -d /mnt/sdc
+chia plots remove -d /mnt/sdd
+chia plots remove -d /mnt/sde 
+chia plots remove -d /mnt/sdf 
+chia plots remove -d /mnt/sdg 
+chia plots remove -d /mnt/sdh 
+chia plots remove -d /mnt/sdi 
+chia plots remove -d /mnt/sdj 
+chia plots remove -d /mnt/sdk 
+chia plots remove -d /mnt/sdl 
+chia plots remove -d /mnt/sdm 
+chia plots remove -d /mnt/sdn 
+chia plots remove -d /mnt/sdo 
+chia plots remove -d /mnt/sdp 
+chia plots remove -d /mnt/sdq 
+chia plots remove -d /mnt/sdr
+chia plots remove -d /mnt/sds 
+chia plots remove -d /mnt/sdt 
+chia plots remove -d /mnt/sdu 
+chia plots remove -d /mnt/sdv
+chia plots remove -d /mnt/sdw  
+chia plots remove -d /mnt/sdx 
+chia plots remove -d /mnt/sdy 
+chia plots remove -d /mnt/sdz 
+chia plots remove -d /mnt/sdaa 
+chia plots remove -d /mnt/sdab 
+chia plots remove -d /mnt/sdac
+chia plots remove -d /mnt/sdad 
+chia plots remove -d /mnt/sdae 
+chia plots remove -d /mnt/sdaf 
+chia plots remove -d /mnt/sdag 
+chia plots remove -d /mnt/sdah 
+chia plots remove -d /mnt/sdai
+chia plots remove -d /mnt/sdaj
+chia plots remove -d /mnt/sdak
+chia plots remove -d /mnt/sdal
+chia plots remove -d /mnt/sdam
+chia plots remove -d /mnt/sdan 
+chia plots remove -d /mnt/sdao 
+chia plots remove -d /mnt/sdap 
+chia plots remove -d /mnt/sdaq
+chia plots remove -d /mnt/sdar
+chia plots remove -d /mnt/sdas 
+chia plots remove -d /mnt/sdat 
+
+
