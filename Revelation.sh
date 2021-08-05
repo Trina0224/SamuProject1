@@ -5,7 +5,7 @@ CHECKTARGETARRAY=($CHECKTARGET)
 RESULT=${CHECKTARGETARRAY[4]} 
 echo $RESULT
 
-if [ "$RESULT" = "96%" ]; then
+if [ "$RESULT" = "96%" ] || [ "$RESULT" > "96%" ] ; then
     echo "Plotting finished"
 
     echo "Discontinue all chia process..."
